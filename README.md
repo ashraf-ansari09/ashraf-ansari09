@@ -52,22 +52,22 @@
 
 ### 🌐 Social Media & Platforms
 <p>
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/ashu--ansari/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
   </a>
   <a href="https://github.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
   </a>
-  <a href="mailto:">
+  <a href="mailto:ansariashraf1425@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="30"/>
   </a>
-  <a href="https://www.instagram.com/">
+  <a href="https://www.youtube.com/@ASHU_INT">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30"/>
   </a>
   
     
   </a>
-  <a href="https://www.youtube.com/">
+  <a href="https://www.youtube.com/@ASHU_INT">
     <img src="https://img.icons8.com/color/48/youtube-play.png" width="30"/>
   </a>
 </p>
