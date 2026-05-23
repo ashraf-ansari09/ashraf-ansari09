@@ -12,7 +12,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/ashraf-ansari09?style=social)
 
 ---
-## 🛠️ Tech Stack
 
 ### 🚀 Languages
 <p>
@@ -38,8 +37,7 @@
 ### 📝 Code Editors & IDEs
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+
 </p>
 
 ---
