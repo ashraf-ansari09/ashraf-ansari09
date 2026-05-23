@@ -61,7 +61,7 @@
   <a href="mailto:ansariashraf1425@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="30"/>
   </a>
-  <a href="https://https://www.instagram.com/ashu_int_/">
+  <a href="https://www.instagram.com/ashu_int_/">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30"/>
   </a>
   
